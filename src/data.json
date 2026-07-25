@@ -1,0 +1,72 @@
+{
+  "_instructions": [
+    "=====================================================",
+    "  LAUNCHPAD IT BOOTCAMP — YOUR PORTFOLIO DATA FILE  ",
+    "  Edit ONLY this file to personalise your portfolio.",
+    "  Do NOT touch App.jsx or any other files.          ",
+    "====================================================="
+  ],
+
+  "studentName": "ATTENDEE NAME HERE",
+  "studentRole": "YOUR ROLE HERE  (e.g.  Full-Stack Developer)",
+  "studentBio": "TYPE YOUR BIO HERE — introduce yourself, what you love building, and what drives you as a developer. Make it personal and authentic!",
+  "avatarUrl": "https://ui-avatars.com/api/?name=Student&background=10b981&color=fff&size=200&bold=true&font-size=0.4",
+  "_avatarNote": "Replace avatarUrl with a link to your own photo (e.g. a GitHub avatar URL).",
+
+  "email": "your.email@example.com",
+  "github": "https://github.com/YOUR_GITHUB_USERNAME",
+  "linkedin": "https://linkedin.com/in/YOUR_LINKEDIN_PROFILE",
+  "resumeUrl": "PASTE YOUR GOOGLE DRIVE / DROPBOX RESUME LINK HERE",
+
+  "skills": [
+    "JavaScript",
+    "React",
+    "HTML",
+    "CSS",
+    "Git & GitHub",
+    "Node.js",
+    "YOUR SKILL HERE",
+    "ANOTHER SKILL HERE"
+  ],
+  "_skillsNote": "Add or remove skills freely. Each string becomes a pill-shaped tag.",
+
+  "education": [
+    {
+      "institution": "YOUR SCHOOL / BOOTCAMP NAME HERE",
+      "degree": "YOUR QUALIFICATION OR COURSE NAME",
+      "period": "2024 – Present",
+      "description": "DESCRIBE WHAT YOU STUDIED OR ARE CURRENTLY STUDYING HERE."
+    },
+    {
+      "institution": "PREVIOUS SCHOOL NAME (optional)",
+      "degree": "QUALIFICATION NAME",
+      "period": "2022 – 2024",
+      "description": "BRIEF DESCRIPTION OF THIS QUALIFICATION."
+    }
+  ],
+
+  "projects": [
+    {
+      "title": "YOUR FIRST PROJECT TITLE",
+      "description": "DESCRIBE YOUR PROJECT HERE — what it does, why you built it, and what problem it solves.",
+      "techStack": ["React", "CSS", "JavaScript"],
+      "liveUrl": "#",
+      "repoUrl": "https://github.com/YOUR_USERNAME/YOUR_REPO",
+      "_note": "Replace # with your live site URL when deployed."
+    },
+    {
+      "title": "YOUR SECOND PROJECT TITLE",
+      "description": "DESCRIBE YOUR SECOND PROJECT — keep it concise but impactful.",
+      "techStack": ["HTML", "CSS", "JavaScript"],
+      "liveUrl": "#",
+      "repoUrl": "https://github.com/YOUR_USERNAME/YOUR_SECOND_REPO"
+    },
+    {
+      "title": "YOUR THIRD PROJECT TITLE",
+      "description": "DESCRIBE YOUR THIRD PROJECT HERE.",
+      "techStack": ["Node.js", "React", "Git"],
+      "liveUrl": "#",
+      "repoUrl": "#"
+    }
+  ]
+}
